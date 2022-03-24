@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=twodark&count_private=false&include_all_commits=true"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=cobalt&count_private=false&include_all_commits=true"/></a>
 </p>
 
 <p align="center">
