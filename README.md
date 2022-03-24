@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:socop2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com"/></a>&nbsp;&nbsp;
+  <a href="mailto:socop2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:socop2412@gmail.com"/></a>&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile"/></a>&nbsp;&nbsp;
 <!--   <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FR9R8dH"/></a>&nbsp;&nbsp; -->
   <a href="https://twitter.com/borjapazr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/borjapazr"/></a>&nbsp;&nbsp;
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=onedark&count_private=true&include_all_commits=true"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=onedark&count_private=false&include_all_commits=true"/></a>
 </p>
 
 <p align="center">
