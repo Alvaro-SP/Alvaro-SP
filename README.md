@@ -2,7 +2,7 @@
   Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> I'm Alvaro 👨‍💻 <a href="#" ><img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="43px"/></a>😎
 </h1>
 
-<p align="center">
+<p align="center"> 
   📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer.
   :)
 </p>
