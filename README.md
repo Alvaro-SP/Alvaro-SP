@@ -65,8 +65,10 @@
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
 </p>
 
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&redirect=true)
+</div>
+
 
 
 <p align="center">
