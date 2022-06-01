@@ -1,5 +1,5 @@
 <h1 align="center">   
-  Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px"/></a> I'm Alvaro 💻 <a href="#" ><img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="12px"/></a>😎 
+  Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /></a> I'm Alvaro 💻 <a href="#" ><img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" /></a>😎 
 </h1>
 
 <p align="center"> 
