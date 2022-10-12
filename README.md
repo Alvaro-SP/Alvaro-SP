@@ -76,7 +76,7 @@
 
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=cobalt&count_private=false&include_all_commits=true"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true"/></a>
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&border_color=08FA1A&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true -->
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=cobalt&count_private=false&include_all_commits=true -->
 </p>
