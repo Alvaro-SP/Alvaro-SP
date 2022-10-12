@@ -2,9 +2,7 @@
   Hi there I'm Alvaro 💻 😎 
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://wahler.digital/images/sinkr/SiNKR.X100.800x200.gif"/></a>
-</p>
+
 <p align="center"> 
   📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. I'm busy now 🥑
   :)
@@ -91,6 +89,8 @@
 </p>
 <!---
 Alvaro-SP/Alvaro-SP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.  
+You can click the Preview link to take a look at your changes.   
+<p align="center">
+  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://wahler.digital/images/sinkr/SiNKR.X100.800x200.gif"/></a>
+</p>
 --->
- 
