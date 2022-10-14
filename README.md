@@ -69,11 +69,11 @@
   <!-- <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
 </p>
-<p align="center">
-  <a href="#">
+
+
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=dark&border_radius=8)](https://git.io/streak-stats)
-  </a>
-</p>
+</div>
 
 
 
