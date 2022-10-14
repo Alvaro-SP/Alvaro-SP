@@ -75,7 +75,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="[https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues](https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=dark&border_radius=8)"/></a>
+  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=dark&border_radius=8)"/></a>
 </p>
 
 
