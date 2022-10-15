@@ -97,6 +97,22 @@
 <img src="https://camo.githubusercontent.com/02d53ff106c7aa15c9456f341074bf409a8970f6e285bbd101642f732926b1b8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d616e75656c6d6972616e64613939267468656d653d64726163756c612672616e6b3d5345435245542c5353532c53532c532c4141412c41412c412c422c43" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Alvaro-SP&amp;theme=dracula&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;"></a>
 </p>
 
+
+
+
+<p align="center">
+  <a href="https://github.com/Alvaro-SP/Alvaro-SP">
+<img src="https://github-profile-trophy.vercel.app/?username=Alvaro-SP&amp;theme=dracula&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;"></a>
+</p>
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-SP&layout=compact&show_icons=true&theme=radical"/></a>
 </p>
