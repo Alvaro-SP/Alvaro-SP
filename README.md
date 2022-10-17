@@ -75,7 +75,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=dark&border_radius=8)"/></a>
+  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=github-dark&border_radius=8)"/></a>
 </p>
 
 
