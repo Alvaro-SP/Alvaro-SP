@@ -74,6 +74,9 @@
   
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black" />
   
+  
+  <img alt="Simio" src="https://img.shields.io/badge/-Simio-111111?style=flat-square&logo=Simple%20Icons&logoColor=white" />
+  
 </p>
 
 
