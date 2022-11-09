@@ -70,7 +70,9 @@
   
   <!-- <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
-  <img alt="Grafana" src="https://img.shields.io/badge/-ASM-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white" />
+  <img alt="ASM" src="https://img.shields.io/badge/-ASM-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white" />
+  
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black" />
   
 </p>
 
