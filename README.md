@@ -12,7 +12,7 @@
   <a href="mailto:socop2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:socop2412@gmail.com"/></a>&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile"/></a>&nbsp;&nbsp;
 <!--   <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FR9R8dH"/></a>&nbsp;&nbsp; -->
-  <a href="https://twitter.com/borjapazr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/borjapazr"/></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/socop2412"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/borjapazr"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/borjapazr"/></a>
 </p>
 
