@@ -70,7 +70,8 @@
   
   <!-- <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
-  <img alt="Grafana" src="https://img.shields.io/badge/-ASM-F46800?style=flat-square&logo=asm&logoColor=yellow" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-ASM-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white" />
+  
 </p>
 
 
