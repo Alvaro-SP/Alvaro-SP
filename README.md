@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. I'm busy now 🥑
+  📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. Can i help you? 🥑
   :)
 </p>
 <h3 align="center">I'm an student of System's Engineering at San Carlos University of Guatemala.</h3>
