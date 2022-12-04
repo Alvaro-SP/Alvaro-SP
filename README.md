@@ -1,8 +1,8 @@
-<h1 align="center">   
+<!-- <h1 align="center">   
   Hi there, I'm Alvaro 💻 😎
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=5012&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Alvaro+%F0%9F%92%BB+%F0%9F%98%8E)
-</h1>
-
+  
+</h1> -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=5012&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Alvaro+%F0%9F%92%BB+%F0%9F%98%8E)
 
 
 <p align="center"> 
