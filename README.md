@@ -99,9 +99,10 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Alvaro-sp&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 
+
 <p dir="auto" align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&amp;redirect=true" rel="nofollow"><img src="https://camo.githubusercontent.com/b4d4ee489a647ba4d6915dbd5caa53b36c15f533934db137e4082475c6fa0d17/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d333136336c777671736c713278636c7636327732336579346176776d26636f7665725f696d6167653d74727565267468656d653d64656661756c74266261725f636f6c6f723d353362313466266261725f636f6c6f725f636f7665723d66616c7365" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true" style="max-width: 100%;"></a></p>
 
-
+<!-- ********************************* GITHUB STATS ****************************** -->
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true"/></a>
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&border_color=08FA1A&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true -->
