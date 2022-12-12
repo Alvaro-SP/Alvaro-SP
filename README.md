@@ -4,14 +4,8 @@
 </h1> -->
 
 
-<center align="center">
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=5012&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Hi+there%2C+I'm+Alvaro+%F0%9F%92%BB+%F0%9F%98%8E)
-
-
-
-</center>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=23&duration=5012&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Hi+there%2C+I'm+Alvaro+%F0%9F%92%BB+%F0%9F%98%8E)
 
 
 
