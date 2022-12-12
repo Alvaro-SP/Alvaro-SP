@@ -2,10 +2,18 @@
   Hi there, I'm Alvaro 💻 😎
   
 </h1> -->
+
+```{css, echo=FALSE}
+   h1, h2, h3 { text-align: center; }
+```
+
 <center>
 
-
+  <h1>
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=5012&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Hi+there%2C+I'm+Alvaro+%F0%9F%92%BB+%F0%9F%98%8E)
+
+  </h1>
 
 </center>
 
