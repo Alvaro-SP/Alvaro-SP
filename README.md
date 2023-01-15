@@ -24,7 +24,6 @@
 
 <p align="center">   
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />  
-  
   <img alt="Autocad" src="https://img.shields.io/badge/-Autocad-white?style=flat-square&logo=Autodesk&logoColor=maroon" />  
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />          
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
@@ -32,36 +31,22 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
-  
   <img alt="html5" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=WHITE" />  
   <img alt="Brave browser" src="https://img.shields.io/badge/-Opera_GX-ff0000?style=flat-square&logo=opera&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white" />
   <!-- <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" /> -->
-
   <!-- <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-6464e2?style=flat-square&logo=Eslint&logoColor=white" /> -->         
-
 <!--  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />   -->
-
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
-
 <!--   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white" /> -->
-
 <!--   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" /> -->
-
 <!--   <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON+Web+Tokens&logoColor=white" />  -->
-  
-  
-
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ+IDEA&logoColor=white" />
 <!--   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" /> -->
 <!--   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />  -->
-
-<!-- 
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" /> -->
-
+<!--   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" /> -->
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon&logoColor=white" />
-
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <!-- <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />  -->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -76,30 +61,24 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-8BCCFF?style=flat-square&logo=go&logoColor=blue" />
   <img alt="Golang" src="https://img.shields.io/badge/-Android-0168A7?style=flat&logo=android&logoColor=green" />
-  
-  
   <!-- <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
   <img alt="ASM" src="https://img.shields.io/badge/-ASM-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white" />
-  
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black" />
-  
-  
   <img alt="Simio" src="https://img.shields.io/badge/-Simio-111111?style=flat-square&logo=Simple%20Icons&logoColor=white" />
-  
 </p>
 
 
 <!-- [![GitHub Streak]()](https://git.io/streak-stats) -->
 
-
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=github-dark&border_radius=8)"/></a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Alvaro-sp&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Alvaro-sp&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;"> -->
 
 
+<!-- ********************************* SPOTIFY ****************************** -->
 <p dir="auto" align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&amp;redirect=true" rel="nofollow"><img src="https://camo.githubusercontent.com/b4d4ee489a647ba4d6915dbd5caa53b36c15f533934db137e4082475c6fa0d17/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d333136336c777671736c713278636c7636327732336579346176776d26636f7665725f696d6167653d74727565267468656d653d64656661756c74266261725f636f6c6f723d353362313466266261725f636f6c6f725f636f7665723d66616c7365" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true" style="max-width: 100%;"></a></p>
 
 <!-- ********************************* GITHUB STATS ****************************** -->
@@ -111,35 +90,20 @@
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=cobalt&count_private=false&include_all_commits=true -->
 
 
-
+<!-- ********************************* A little title to contact me ****************************** -->
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
 </p>
 
-
-
-
-
+<!-- ********************************* TROFEITOS ****************************** -->
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP">
-<img src="https://github-profile-trophy.vercel.app/?username=Alvaro-SP&amp;theme=dracula&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;"></a>
+<img src="https://github-profile-trophy.vercel.app/?username=Alvaro-SP&amp;theme=dracula" ></a>
 </p>
 
-
-
-
-
-
-
-
+<!-- ********************************* MOST USED LANGUAGES ****************************** -->
 
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-SP&layout=compact&show_icons=true&theme=radical"/></a>
 </p>
-<!---
-Alvaro-SP/Alvaro-SP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.   
-<p align="center">
-  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://wahler.digital/images/sinkr/SiNKR.X100.800x200.gif"/></a>
-</p>
---->
+
