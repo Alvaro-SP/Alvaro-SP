@@ -105,9 +105,12 @@
 <!-- ********************************* GITHUB STATS ****************************** -->
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true"/></a>
+ </p>
+
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&border_color=08FA1A&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true -->
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=cobalt&count_private=false&include_all_commits=true -->
-</p>
+
+
 
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
