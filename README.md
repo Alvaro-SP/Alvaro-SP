@@ -83,7 +83,7 @@
 
 <!-- ********************************* GITHUB STATS ****************************** -->
 <p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true"/></a>
+  <a href=""><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true"/></a>
  </p>
 
 <!--   https://github-readme-stats.vercel.app/api?username=Alvaro-SP&show_icons=true&theme=highcontrast&border_color=08FA1A&cache_seconds=7200&border_radius=30&card_width=650&line_height=35&hide_progress=false&count_private=false&include_all_commits=true -->
@@ -104,6 +104,6 @@
 <!-- ********************************* MOST USED LANGUAGES ****************************** -->
 
 <p align="center">
-  <a href="https://github.com/Alvaro-SP/Alvaro-SP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-SP&layout=compact&show_icons=true&theme=radical"/></a>
+  <a href="https://github.com/Alvaro-SP/Alvaro-SP"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alvaro-SP&layout=compact&show_icons=true&theme=radical"/></a>
 </p>
 
