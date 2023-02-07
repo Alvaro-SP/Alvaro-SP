@@ -14,4 +14,4 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      - run: cp dist/*.svg dist/*.gif docs/
+      - run: cp dist/image.svg dist/image.gif docs/
