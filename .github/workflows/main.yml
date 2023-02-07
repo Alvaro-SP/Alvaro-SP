@@ -22,9 +22,9 @@ jobs:
     
     steps:
       # - name: generate github-contribution-grid-snake.svg
-      - uses: Platane/snk@v2
+      - uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.Alvaro-SP }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
