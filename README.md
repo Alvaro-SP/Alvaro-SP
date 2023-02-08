@@ -75,7 +75,7 @@
   <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=github-dark&border_radius=8)"/></a>
 </p>
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Alvaro-sp&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;"> -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alvaro-sp&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 
 
 <!-- ********************************* SPOTIFY ****************************** -->
