@@ -95,6 +95,11 @@
   <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&link=https://github.com/borjapazr/borjapazr/issues"/></a>
 </p>
 
+<!-- ********************************* SNAKE ****************************** -->
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href=""><img src="https://raw.githubusercontent.com/Alvaro-SP/Alvaro-SP/34fd711f71a4be0259ec5e9824ab0bf089fe1b98/github-contribution-grid-snake.svg" alt="mishmanners snake gif" style="max-width: 100%;"></a></p>
+
+
 <!-- ********************************* TROFEITOS ****************************** -->
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP">
