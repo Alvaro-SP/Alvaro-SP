@@ -34,11 +34,11 @@
   <img alt="html5" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=WHITE" />  
   <img alt="Brave browser" src="https://img.shields.io/badge/-Opera_GX-ff0000?style=flat-square&logo=opera&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white" />
-  <!-- <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" /> -->
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <!-- <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-6464e2?style=flat-square&logo=Eslint&logoColor=white" /> -->         
  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
-<!--   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white" /> -->
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON+Web+Tokens&logoColor=white" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -61,11 +61,15 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-8BCCFF?style=flat-square&logo=go&logoColor=blue" />
   <img alt="Golang" src="https://img.shields.io/badge/-Android-0168A7?style=flat&logo=android&logoColor=green" />
-  <!-- <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" /> -->
+  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" />
   <img alt="ASM" src="https://img.shields.io/badge/-ASM-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black" />
   <img alt="Simio" src="https://img.shields.io/badge/-Simio-111111?style=flat-square&logo=Simple%20Icons&logoColor=white" />
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
+  [![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FCA121?style=flat-square&logo=GitLab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/cicd/)
+
+
 </p>
 
 
