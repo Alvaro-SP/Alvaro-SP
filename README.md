@@ -10,7 +10,7 @@
 
 
 <p align="center"> 
-  📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. Vacation's resting? 🥑
+  📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. Enjoy to code!  🥑
   :)
 </p>
 <h3 align="center">I'm an student of System's Engineering at San Carlos University.</h3>
