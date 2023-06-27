@@ -68,6 +68,10 @@
   <img alt="Simio" src="https://img.shields.io/badge/-Simio-111111?style=flat-square&logo=Simple%20Icons&logoColor=white" />
   <img alt="Kubernetes" href="https://kubernetes.io/" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="GitLab CI/CD" href="https://about.gitlab.com/stages-devops-lifecycle/cicd/" src="https://img.shields.io/badge/-GitLab%20CI%2FCD-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
+  [<img alt="Google Cloud" href="https://cloud.google.com/" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white" />](https://cloud.google.com/)
+[<img alt="AWS" href="https://aws.amazon.com/" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />](https://aws.amazon.com/)
+[<img alt="C++" href="https://en.cppreference.com/" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />](https://en.cppreference.com/)
+
 
 
 </p>
