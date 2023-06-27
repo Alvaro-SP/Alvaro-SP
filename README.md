@@ -71,6 +71,9 @@
   <img alt="Google Cloud" href="https://cloud.google.com/" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white" />
 <img alt="AWS" href="https://aws.amazon.com/" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
 <img alt="C++" href="https://en.cppreference.com/" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+<img alt="Go" href="https://golang.org/" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
+<img alt="Vue.js" href="https://vuejs.org/" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+
 
 
 
