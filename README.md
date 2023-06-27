@@ -66,8 +66,8 @@
   <img alt="ASM" src="https://img.shields.io/badge/-ASM-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black" />
   <img alt="Simio" src="https://img.shields.io/badge/-Simio-111111?style=flat-square&logo=Simple%20Icons&logoColor=white" />
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
-  [![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FCA121?style=flat-square&logo=GitLab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/cicd/)
+  <img alt="Kubernetes" href="https://kubernetes.io/" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+  <img alt="GitLab CI/CD" href="https://about.gitlab.com/stages-devops-lifecycle/cicd/" src="https://img.shields.io/badge/-GitLab%20CI%2FCD-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
 
 
 </p>
