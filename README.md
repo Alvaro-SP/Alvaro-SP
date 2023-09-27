@@ -131,6 +131,9 @@
 <table align="center">
   <tr>
     <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alvaro-SP&theme=blue_green" alt="Stats">
+    </td>
+    <td align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alvaro-SP&theme=blue_green" alt="Lenguaje más utilizado">
     </td>
     <td align="center">
