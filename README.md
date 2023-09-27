@@ -123,8 +123,20 @@
 </p>
 
 <!-- ********************************* MOST USED LANGUAGES ****************************** -->
-
+<!--
 <p align="center">
   <a href="https://github.com/Alvaro-SP/Alvaro-SP"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alvaro-SP&layout=compact&show_icons=true&theme=radical"/></a>
-</p>
+</p> -->
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alvaro-SP&theme=blue_green" alt="Lenguaje más utilizado">
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alvaro-SP&theme=blue_green&utcOffset=8" alt="Horario productivo">
+    </td>
+  </tr>
+</table>
+
 
