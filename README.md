@@ -107,8 +107,9 @@
 </p>
 
 <!-- ********************************* COMMITS GRAPH ****************************** -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvaro-SP&theme=blue_green)
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvaro-SP&theme=blue_green" alt="Perfil de GitHub">
+</p>
 
 <!-- ********************************* SNAKE ****************************** -->
 
