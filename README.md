@@ -78,10 +78,12 @@
 <!-- [![GitHub Streak]()](https://git.io/streak-stats) -->
 
 <p align="center">
-  <a href="https://github.com/Alvaro-SP/Alvaro-SP/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alvaro-SP&theme=github-dark&border_radius=8)"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alvaro-SP&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alvaro-sp&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alvaro-SP&bg_color=063003&color=dbbf33&line=3cc3b3&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" style="max-width: 100%;">
+
 
 
 <!-- ********************************* SPOTIFY ****************************** -->
