@@ -8,7 +8,7 @@
   📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. Enjoy to code!  🥑
   :)
 </p>
-<h3 align="center">I'm an student of System's Engineering at San Carlos University.</h3>
+<h3 align="center">I'm an student of Software and System's Engineering </h3>
 <p align="center">
   <a href="mailto:socop2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:socop2412@gmail.com"/></a>&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile"/></a>&nbsp;&nbsp;
@@ -52,7 +52,7 @@
    <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> 
 <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <!-- <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> -->
-  <!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-8BCCFF?style=flat-square&logo=go&logoColor=blue" />
   <img alt="Golang" src="https://img.shields.io/badge/-Android-0168A7?style=flat&logo=android&logoColor=green" />
