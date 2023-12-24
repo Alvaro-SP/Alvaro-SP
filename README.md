@@ -78,7 +78,7 @@
 <!-- [![GitHub Streak]()](https://git.io/streak-stats) -->
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alvaro-SP&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alvaro-SP&theme=whatsapp-dark2&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
 
