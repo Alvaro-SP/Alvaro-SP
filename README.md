@@ -1,5 +1,7 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&duration=5012&pause=1000&center=true&vCenter=true&width=700&lines=🎄+🎅+Hi%2C+I%27m+Alvaro+💻+😎+🎅+🎄)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&duration=5012&pause=1000&center=true&vCenter=true&width=700&lines=🎄+🎅+Hi%2C+I%27m+Alvaro+💻+😎+🎅+🎄" alt="Typing SVG">
+</div>
 
 
 
