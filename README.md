@@ -1,8 +1,8 @@
-
+<p align="center"> 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&duration=5012&pause=1000&center=true&vCenter=true&width=700&lines=🎄+🎅+Hi%2C+I%27m+Alvaro+💻+😎+🎅+🎄" alt="Typing SVG">
 </div>
-
+</p>
 
 <p align="center"> 
   📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. Enjoy to code!  🥑
