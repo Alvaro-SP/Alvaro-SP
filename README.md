@@ -87,7 +87,7 @@
 
 
 <!-- ********************************* SPOTIFY ****************************** -->
-<p dir="auto" align="center"><a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163lwvqslq2xclv62w23ey4avwm&redirect=true" rel="nofollow"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163lwvqslq2xclv62w23ey4avwm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=08f000&bar_color_cover=true" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true" style="max-width: 100%;"></a></p>
+<p dir="auto" align="center"><a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=3163lwvqslq2xclv62w23ey4avwm&redirect=true" rel="nofollow"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=07db00&bar_color_cover=false" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=3163lwvqslq2xclv62w23ey4avwm&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true" style="max-width: 100%;"></a></p>
 
 <!-- ********************************* GITHUB STATS ****************************** -->
 <p align="center">
