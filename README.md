@@ -8,7 +8,7 @@
   📢 Hi, I'm <b>Alvaro</b>, a passionate self-taught software and Hardware Computer. Enjoy to code!  🥑
   :)
 </p>
-<h3 align="center">I'm an student of Software and System's Engineering </h3>
+<h3 align="center">I'm an a Software and System's Engineering </h3>
 <p align="center">
   <a href="mailto:socop2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:socop2412@gmail.com"/></a>&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6112286/mr-mars?tab=profile"/></a>&nbsp;&nbsp;
